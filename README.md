@@ -1,7 +1,3 @@
-toolkit-course
-==============
+#Johns Hopkins - "The Data Scientist's Toolbox"
 
-
-#Datascientist Tool Kit course, coursera.
-
-##Testar lite
+##First commit and push, trying it out.
